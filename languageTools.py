@@ -4,6 +4,7 @@ rd = "\033[31;1m"
 em = "\033[4m"
 st = "\033[0m"
 
+#lmao python -download en pls
 nlp = spacy.load('en')
 
 # A set of terms that are indicative of different Statement types
